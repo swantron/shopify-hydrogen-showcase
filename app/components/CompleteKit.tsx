@@ -24,7 +24,7 @@ export interface CompleteKitProps {
 /**
  * CompleteKit — replaces the current 4-dropdown add-on pattern.
  *
- * The current VMR store has four required dropdowns before Add to Cart:
+ * The current ABC store has four required dropdowns before Add to Cart:
  * Basecoat, Clearcoat, Primer, Accessory Kit. Each has multiple options.
  * This is decision paralysis — buyers drop off without purchasing.
  *

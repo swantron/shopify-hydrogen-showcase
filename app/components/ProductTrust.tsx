@@ -10,7 +10,7 @@ interface ProductTrustProps {
 /**
  * ProductTrust — trust signals rendered near Add to Cart.
  *
- * The current VMR store has reviews but they're buried in a separate tab.
+ * The current ABC store has reviews but they're buried in a separate tab.
  * At the moment of purchase decision, the buyer sees nothing that builds
  * confidence. This component surfaces the three signals that matter most:
  * 1. Social proof (ratings + review count)

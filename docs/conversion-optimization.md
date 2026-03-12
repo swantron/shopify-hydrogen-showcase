@@ -1,4 +1,4 @@
-# Conversion Rate Optimization — VMR Paints Analysis
+# Conversion Rate Optimization — ABC Paints Analysis
 
 ## Baseline Metrics (T12 Jan 2026)
 
@@ -63,8 +63,8 @@ At 62.4% gross margin, each additional dollar of revenue contributes $0.624 to g
 - Effort: 2-4 weeks | Impact: estimated +0.3-0.4% CVR + SEO improvement
 
 **4. Generic Homepage Value Proposition**
-- Current: "Welcome to VMR Paints!"
-- No specificity about what makes VMR different
+- Current: "Welcome to ABC Paints!"
+- No specificity about what makes ABC different
 - Fix: "OEM-matched motorcycle and auto paint — AXALTA, PPG, House of Kolor"
 - Effort: 30 minutes | Impact: bounce rate reduction
 

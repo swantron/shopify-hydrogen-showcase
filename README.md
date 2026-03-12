@@ -1,10 +1,10 @@
 # Shopify Hydrogen Showcase
 
-A research and portfolio project demonstrating modern Shopify Hydrogen best practices for a vehicle-specific automotive paint e-commerce store. Built as the eventual production storefront for VMR Paints.
+A research and portfolio project demonstrating modern Shopify Hydrogen best practices for a vehicle-specific automotive paint e-commerce store. Built as the eventual production storefront for ABC Paints.
 
 ## Why This Exists
 
-The current VMR Paints store runs on a default Shopify Liquid theme with a 1.06% conversion rate against 52,000+ annual sessions. Industry average for e-commerce is 2-3%. This project demonstrates exactly how to close that gap.
+The current ABC Paints store runs on a default Shopify Liquid theme with a 1.06% conversion rate against 52,000+ annual sessions. Industry average for e-commerce is 2-3%. This project demonstrates exactly how to close that gap.
 
 **Projected impact at 2.0% CVR:** ~$50,000 additional annual gross profit on the same traffic.
 
@@ -82,7 +82,7 @@ docs/
 
 ## Live Case Study
 
-VMR Paints — [vmrpaints.com](https://vmrpaints.com)
+ABC Paints — [abcpaints.com](https://abcpaints.com)
 - Specialty automotive paint, Shopify store
 - 52,438 sessions/yr | 655 orders | $230.98 AOV
 - Current CVR: 1.06% | Target: 2.0%+

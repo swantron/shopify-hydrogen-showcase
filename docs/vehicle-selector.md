@@ -2,7 +2,7 @@
 
 ## The Problem
 
-VMR Paints sells vehicle-matched paint. The primary buyer journey is:
+ABC Paints sells vehicle-matched paint. The primary buyer journey is:
 1. "I have a Honda CT70. What paint matches my bike?"
 2. Find the color. Buy it.
 
