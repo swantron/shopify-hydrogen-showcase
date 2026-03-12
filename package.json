@@ -1,0 +1,32 @@
+{
+  "name": "shopify-hydrogen-showcase",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Shopify Hydrogen best practices showcase — vehicle-specific automotive paint e-commerce",
+  "scripts": {
+    "dev": "shopify hydrogen dev",
+    "build": "shopify hydrogen build",
+    "preview": "shopify hydrogen preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remix-run/react": "^2.8.0",
+    "@shopify/hydrogen": "^2024.4.0",
+    "@shopify/remix-oxygen": "^2.0.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@shopify/cli": "^3.60.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.11"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
